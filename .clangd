@@ -1,0 +1,2 @@
+Diagnostics:
+  Suppress: [undeclared_var_use, pp_file_not_found]

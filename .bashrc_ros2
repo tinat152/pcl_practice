@@ -1,0 +1,5 @@
+# ROS2
+export ROS_DISTRO=foxy
+source /opt/ros/$ROS_DISTRO/setup.bash
+source /home/user/ros2_ws/install/local_setup.bash
+source /home/simulations/ros2_sims_ws/install/setup.bash

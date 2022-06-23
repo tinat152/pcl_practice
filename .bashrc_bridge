@@ -1,0 +1,5 @@
+source /opt/ros/noetic/setup.bash
+source /opt/ros/foxy/local_setup.bash
+source /home/simulations/ros2_sims_ws/install/setup.bash
+source /home/user/catkin_ws/devel/setup.bash
+source /home/user/ros2_ws/install/local_setup.bash

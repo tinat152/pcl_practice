@@ -1,0 +1,10 @@
+[MESSAGES CONTROL]
+disable=E0401,
+    attribute-defined-outside-init,
+    duplicate-code,
+    invalid-name,
+    missing-docstring,
+    protected-access,
+    too-few-public-methods,
+    # handled by black
+    format

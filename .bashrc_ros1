@@ -1,0 +1,4 @@
+# ROS1
+export ROS_DISTRO=noetic
+source /opt/ros/$ROS_DISTRO/setup.bash
+source /home/user/catkin_ws/devel/setup.bash
